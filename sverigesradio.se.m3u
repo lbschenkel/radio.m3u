@@ -1,0 +1,27 @@
+#EXTM3U
+# https://sverigesradio.se/sida/allakanaler.aspx
+# https://sverigesradio.se/sida/gruppsida.aspx?programid=3756&grupp=10632&artikel=3771852
+#EXTINF:-1,SR P1
+https://http-live.sr.se/p1-aac-192
+#EXTINF:-1,SR P2
+https://http-live.sr.se/p2musik-aac-192
+#EXTINF:-1,SR P2 Språk och Musik
+https://http-live.sr.se/p2-aac-192
+#EXTINF:-1,SR P2 Klassiskt
+https://http-live.sr.se/srklassiskt-aac-192
+#EXTINF:-1,SR P2 Världen
+https://http-live.sr.se/srvarlden-aac-192
+#EXTINF:-1,SR P3
+https://http-live.sr.se/p3-aac-192
+#EXTINF:-1,SR P3 Din Gata
+https://http-live.sr.se/dingata-aac-192
+#EXTINF:-1,SR P3 Star
+https://http-live.sr.se/p3star-aac-192
+#EXTINF:-1,SR P4 Malmöhus
+https://http-live.sr.se/p4malmo-aac-192
+#EXTINF:-1,SR P4 Plus
+https://http-live.sr.se/srextra17-aac-192
+#EXTINF:-1,SR P6
+https://http-live.sr.se/srinternational-aac-192
+#EXTINF:-1,Ekot sänder direkt
+https://http-live.sr.se/ekotsanderdirekt-aac-192
