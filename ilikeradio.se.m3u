@@ -1,0 +1,18 @@
+#EXTM3U
+# https://www.ilikeradio.se/radiokanaler/
+# https://lyssnarservice.ilikeradio.se/hc/sv/articles/115000307412
+#EXTINF:-1,Bandit Classics
+http://wr11-icecast.mtg-r.net/wr11_mp3
+#EXTINF:-1,Bandit Metal
+http://wr03-icecast.mtg-r.net/wr03_mp3
+#EXTINF:-1,Bandit Rock
+http://fm02-icecast.mtg-r.net/fm02_mp3
+#EXTINF:-1,Star 60s
+http://wr09-icecast.mtg-r.net/wr09_mp3
+#EXTINF:-1,Star 70s
+http://wr10-icecast.mtg-r.net/wr10_mp3
+#EXTINF:-1,Star 80s
+http://wr02-icecast.mtg-r.net/wr02_mp3
+#EXTINF:-1,Star 90s
+http://wr12-icecast.mtg-r.net/wr12_mp3
+
