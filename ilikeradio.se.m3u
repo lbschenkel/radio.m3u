@@ -2,17 +2,17 @@
 # https://www.ilikeradio.se/radiokanaler/
 # https://lyssnarservice.ilikeradio.se/hc/sv/articles/115000307412
 #EXTINF:-1 logo="https://app.khz.se/images/200x200/115f7bd4c1a618bc6425033a908fec15.png",Bandit Classics
-http://wr11-icecast.mtg-r.net/wr11_mp3
+http://wr11-ice.stream.khz.se/wr11_mp3
 #EXTINF:-1 logo="https://app.khz.se/images/200x200/7771baf3e29afd2585f74c4ed4fca193.png",Bandit Metal
-http://wr03-icecast.mtg-r.net/wr03_mp3
+http://wr03-ice.stream.khz.se/wr03_mp3
 #EXTINF:-1 logo="https://app.khz.se/images/200x200/63808dd23f61e6193a9007a927189e13.png",Bandit Rock
-http://fm02-icecast.mtg-r.net/fm02_mp3
+http://fm02-ice.stream.khz.se/fm02_mp3
 #EXTINF:-1 logo="https://app.khz.se/images/200x200/1331046cb5fcc9966805a702045763a8.png",Star 60s
-http://wr09-icecast.mtg-r.net/wr09_mp3
+http://fm02-ice.stream.khz.se/wr09_mp3
 #EXTINF:-1 logo="https://app.khz.se/images/200x200/9585b81135ebd6f811e33118d59d03fe.png",Star 70s
-http://wr10-icecast.mtg-r.net/wr10_mp3
+http://wr10-ice.stream.khz.se/wr10_mp3
 #EXTINF:-1 logo="https://app.khz.se/images/200x200/77e3ef20cca31b4dc404e59d9bcadcc3.png",Star 80s
-http://wr02-icecast.mtg-r.net/wr02_mp3
+http://wr02-ice.stream.khz.se/wr02_mp3
 #EXTINF:-1 logo="https://app.khz.se/images/200x200/36c929ecf6458a078f49fc6ac5f1ea1b.png",Star 90s
-http://wr12-icecast.mtg-r.net/wr12_mp3
+http://wr12-ice.stream.khz.se/wr12_mp3
 
